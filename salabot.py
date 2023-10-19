@@ -227,4 +227,4 @@ async def on_message(message):
 
 
 
-client.run("NzE0ODEzMzA1OTU2MzM1NzI3.Xs0HxA.uHtksdxv5iVJKYelFvRQiFfFPH4")
+client.run("Include Token")
